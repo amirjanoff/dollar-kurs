@@ -1,0 +1,23 @@
+.js-form {
+  margin: 30px;
+}
+
+.js-input-balance {
+  margin-right: 100px;
+}
+button {
+  margin-left: 40px;
+  padding: 5px 30px;
+  background-color: blue;
+  border: 0px;
+  border-radius: 5px;
+  color:snow;
+  transition: 0.3s ease;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+}
+
+
